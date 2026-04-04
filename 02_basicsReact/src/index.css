@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: serif;
+}
+
+body{
+  background-color: #956363;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+

@@ -11,6 +11,8 @@ function App() {
     <div>
       <Card title="Card 1" name={name} setName={setName}/>
       <Card title="Card 2" name={name} setName={setName}/>
+      <Card title="Card 3" name={name} setName={setName}/>
+      <Card title="Card 4" name={name} setName={setName}/>
       <p>My Name is {name}</p>
     </div>
   )
